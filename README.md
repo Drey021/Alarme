@@ -1,6 +1,6 @@
 # Simples Alarm
 <p align="center">
- Projeto de um alarm <a href="https://drey021.github.io/Alarme/" target="_blank">"Alarme"</a>,realizado com HTML.
+ Projeto de um alarm visualize aqui:<a href="https://drey021.github.io/Alarme/" target="_blank">"Alarme"</a>.
 </p>
 
 # Linguagens
