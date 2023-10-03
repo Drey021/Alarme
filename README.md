@@ -2,6 +2,7 @@
 <p align="center">
  Projeto de um alarm <a href="https://drey021.github.io/Alarme/" target="_blank">"Alarm"</a>,realizado com HTML.
 </p>
+
 # Linguagens
 <div  align="center"> 
   <div style="display: inline_block"><br>
